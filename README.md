@@ -4,6 +4,7 @@ This repository contains a collection of **Supervised Machine Learning** project
 
 ## 📂 Projects Included
 
+ 
 ### 1. Titanic Survival Prediction
 - Data cleaning and preprocessing
 - Handling missing values
